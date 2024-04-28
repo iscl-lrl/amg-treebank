@@ -2782,7 +2782,7 @@
 8	πουλαστές	(πουλαίνομαι)	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	11	punct	11:punct	_
 10	α	α	AUX	AUX	_	11	aux	11:aux	_
-11	ινείς	γίνομαι	VERB	AUX	_	8	parataxis	8:parataxis	_
+11	ινείς	γίνομαι	VERB	VERB	_	8	parataxis	8:parataxis	_
 12	περπάτι	(περπάτι)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	11	dislocated	11:dislocated	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
 
@@ -5400,7 +5400,7 @@
 4	Παναγία	Παναγία	PROPN	PROPN	Case=Voc|Gender=Fem|Number=Sing	2	conj	2:conj	_
 5	μου	εγω	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	4:nmod	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
-7	αdέ	αdο	DET	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	det	9:det	_
+7	αdέ	αdο	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	det	9:det	_
 8	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
 9	κορίdζι	κορίτσι,κορίdζι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	iobj	10:iobj	_
 10	δος	δίνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
@@ -5703,7 +5703,7 @@
 4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
 5	δομαίνο	δομαινέφτη	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	7	xcomp	7:xcomp	_
 6	μή	μη	PART	PART	_	7	advmod	7:advmod	_
-7	ίνεσαι	γίγνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+7	ίνεσαι	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
 8	;	;	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
 9	»	»	PUNCT	PUNCT	_	7	punct	7:punct	_
 
@@ -5804,7 +5804,7 @@
 3	,	,	PUNCT	PUNCT	_	2	punct	2:punct	_
 4	δομαίνο	δομαινέφτη	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	6	xcomp	6:xcomp	_
 5	μη	μη	PART	PART	_	6	advmod	6:advmod	_
-6	ίνεσαι	γίγνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
+6	ίνεσαι	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	SpaceAfter=No
 7	;	;	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 # sent_id = Fairytale6.64
