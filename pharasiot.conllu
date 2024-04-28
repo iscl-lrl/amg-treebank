@@ -3662,7 +3662,7 @@
 4	΄υρέφ	γυρεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	να	να	AUX	AUX	_	6	aux	6:aux	_
 6	ζήσεις	ζώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	_
-7	πρέφτει	πρέπει	AUX	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+7	πρέφτει	πρέπει	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 8	σε	εσύ	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	4	iobj	4:iobj	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
 10	τε	τε	PART	PART	_	11	cc	11:cc	_
@@ -4290,7 +4290,7 @@
 4	΄υρέφ	γυρεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	να	να	AUX	AUX	_	6	aux	6:aux	_
 6	ζήσεις	ζώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	_
-7	πρέφτει	πρέπει	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+7	πρέφτει	πρέπει	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 8	σε	εσύ	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	4	iobj	4:iobj	_
 9	ν’	να	AUX	AUX	_	11	aux	11:aux	_
 10	τα	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	11	obj	11:obj	_
